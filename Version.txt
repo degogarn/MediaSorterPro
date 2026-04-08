@@ -1,5 +1,5 @@
 # --- VERSION & UPDATE CONFIG ---
 CURRENT_VERSION = 0.1
 # Replace these with your actual raw URLs from Step 3
-VERSION_URL = "https://githubusercontent.com"
-SCRIPT_URL = "https://githubusercontent.com"
+VERSION_URL = "https://raw.githubusercontent.com/degogarn/MediaSorterPro/refs/heads/main/Version.txt"
+SCRIPT_URL = "https://raw.githubusercontent.com/degogarn/MediaSorterPro/refs/heads/main/media_sorter.py"

@@ -1,5 +1,4 @@
 # MediaSorterPro
-Here is a professional "About" section designed to build trust with your users and clearly explain the value of Media Sorter Pro. You can use this for your GitHub, website, or a "Welcome" PDF.
 ------------------------------
 ## ◈ MEDIA SORTER PRO## The Ultimate AI-Powered Digital Librarian
 In an age where we capture thousands of memories every year, our digital lives often become a chaotic sea of "IMG_8231.jpg" and "Video_1.mov." Media Sorter Pro was built to solve this chaos, transforming thousands of unorganized files into a perfectly structured library in seconds.
@@ -22,6 +21,4 @@ Designed for power users and professional organizers, Media Sorter Pro prioritiz
 ## Reclaim Your Time
 Stop digging through folders and start enjoying your memories. Whether you are a professional photographer managing a client archive or a family historian preserving decades of photos, Media Sorter Pro provides the structure you need with the click of a button.
 ------------------------------
-Pro Tip: If you're using this on a website, I recommend adding a "Before & After" screenshot showing a messy folder of 500 files versus the clean, dated subfolders the app creates.
-Would you like me to create a "Contact Support" template you can include for users who have technical questions?
 

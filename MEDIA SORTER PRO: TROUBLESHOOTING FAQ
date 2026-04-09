@@ -1,0 +1,21 @@
+◈ MEDIA SORTER PRO: TROUBLESHOOTING FAQ
+1. "Access Denied" or "Permissions Error"
+Cause: Windows is protecting the folder or the external drive from being modified by a third-party app.
+Solution: Right-click the media_sorter.exe and select "Run as Administrator." This gives the app the necessary "Write" permissions to move files and create new folders.
+2. "Missing GPS Data" / Location Folders are "Unknown"
+Cause: Many social media platforms (WhatsApp, Facebook, Instagram) strip GPS data for privacy when you save photos.
+Solution: For best results, use original files directly from a phone or camera. If the data is missing, the app will safely place those files in a dated folder marked "Unknown Location" rather than losing them.
+3. "WinError 1392" (File is Corrupted or Unreadable)
+Cause: Your source drive (likely an external HDD/USB) has a file system error or a "stuck" indexer lock.
+Solution:
+Click the 🔧 REPAIR INDEX button in the app to release Windows software locks.
+If the error persists, open a Command Prompt as Admin and run: chkdsk E: /f (replace E: with your drive letter).
+4. "Nothing happens when I click Start"
+Cause: You may have a Year Filter active that doesn't match your photos, or the source folder is empty.
+Solution: Check your YEAR RANGE settings (e.g., 1990–2024). If your photos were taken in 2025 and your filter ends at 2024, the app will skip them. Ensure the Log Window says "Scan Complete" and check for any "Filtered" messages.
+5. "AI Features (Face/Food) are grayed out"
+Cause: The required AI libraries are not installed on your system.
+Solution: Go to ⚙ HELP & SETUP and click "Install Now" next to the AI/Classify section. You must have an active internet connection for the first-time setup. Once installed, restart the application.
+6. "The App is slow during Location sorting"
+Cause: To prevent being banned by the global map servers, the app waits 1 second between each photo to look up the address.
+Solution: This is normal and ensures 100% accuracy. If you are in a rush, uncheck "Geo-Sort" to sort by Date only, which is nearly instantaneous.

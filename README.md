@@ -1,24 +1,17 @@
-# MediaSorterPro
-------------------------------
-## ◈ MEDIA SORTER PRO## The Ultimate AI-Powered Digital Librarian
-In an age where we capture thousands of memories every year, our digital lives often become a chaotic sea of "IMG_8231.jpg" and "Video_1.mov." Media Sorter Pro was built to solve this chaos, transforming thousands of unorganized files into a perfectly structured library in seconds.
-## The Intelligent Advantage
-Unlike standard file-moving tools, Media Sorter Pro uses advanced automation and local AI to understand your media:
-
-* Smart Date & Geo Hierarchy: Automatically organizes your files into a clean Year > Month > Country > City structure using raw metadata.
-* AI Categorization: Built-in computer vision detects specific content like food and family, ensuring your most important memories are always prioritized.
-* Duplicate Elimination: Our MD5-hashing engine identifies exact bit-for-bit duplicates, safely relocating them to a dedicated folder to reclaim your storage space.
-* Custom Renaming: Instantly transform generic camera names into searchable titles like 2024-Paris-Vacation-IMG_001.jpg.
-
-## Professional Reliability
-Designed for power users and professional organizers, Media Sorter Pro prioritizes the safety of your data:
-
-* Safe-Scan Technology: Built to handle large external drives, our engine intelligently skips corrupted sectors without crashing the entire task.
-* Transfer Mode Toggle: Choose between a non-destructive Copy (perfect for backups) or a complete Move (for clearing out messy source drives).
-* One-Click Recovery: Every operation is logged. If you change your mind, the Undo feature restores your files to their original state instantly.
-* Privacy-First: All AI processing happens 100% locally on your machine. Your private photos never leave your hard drive.
-
-## Reclaim Your Time
-Stop digging through folders and start enjoying your memories. Whether you are a professional photographer managing a client archive or a family historian preserving decades of photos, Media Sorter Pro provides the structure you need with the click of a button.
-------------------------------
-
+MEDIA SORTER PRO
+The Ultimate AI-Powered Digital Librarian
+In an age where we capture thousands of memories every year, our digital lives often become a chaotic sea of generic filenames like IMG_8231.jpg. Media Sorter Pro is a professional-grade workstation designed to transform that chaos into a perfectly structured archive with just a single click.
+Why Media Sorter Pro?
+While basic tools just move files, Media Sorter Pro understands them. It uses advanced automation and local AI to act as your personal digital archivist.
+Smart Hierarchy: Automatically builds a clean Year > Month > Country > City folder structure using raw EXIF metadata.
+AI Categorization: High-speed computer vision identifies content like food and family photos, ensuring your most important memories are never lost in the crowd.
+Bit-for-Bit De-Duplication: Our MD5 hashing engine finds identical files across different drives, safely relocating duplicates to reclaim your storage space.
+Custom Batch Renaming: Instantly transform cryptic camera names into searchable titles like 2024-Paris-Vacation-IMG_001.jpg.
+Built for Professionals
+Designed for photographers, family historians, and digital organizers, our software prioritizes reliability and data integrity above all else:
+Safe-Scan Technology: Engineered to handle large external drives; our engine intelligently skips corrupted sectors without crashing the session.
+Secure Undo & Recovery: Every operation is logged. If you change your mind, the Undo feature restores your original structure instantly.
+Privacy-First Design: All AI processing happens 100% locally on your machine. Your private photos never touch the cloud.
+System Repair Tools: Built-in "Index Repair" clears Windows file locks, ensuring a smooth experience even on stubborn drives.
+Stop Searching. Start Seeing.
+Reclaim your time and your storage. Whether you are managing a 20-year family archive or a professional client drive, Media Sorter Pro provides the structure you need with the security you demand

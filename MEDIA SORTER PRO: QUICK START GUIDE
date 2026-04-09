@@ -1,0 +1,21 @@
+Get Organized in 5 Simple Steps
+1. System Unlock & Setup
+Launch: Run the media_sorter.exe.
+Unlock: Enter your secure access key (Default: admin) to open the dashboard.
+Verify Requirements: Click the ⚙ HELP & SETUP button. If any status lights are red, click "Install Now" to automatically add the required AI and Location libraries. Note: Restart the app after installation.
+2. Define Your Paths
+Source: Click Browse next to SOURCE and select the folder or external drive containing your messy photos and videos.
+Destination: Click Browse next to DESTINATION and select where you want your new, organized library to be built.
+3. Configure Your Workflow
+Transfer Mode: Choose Copy to keep your originals safe, or Move to clear out your source drive (ideal for cleaning up memory cards).
+Refine Results:
+Check Geo-Sort to create Country/City folders.
+Check Rename Files and add a Custom Prefix (e.g., "Europe-Trip") to give every file a searchable name.
+4. Run a Safe Scan
+Start: Click ▶ START TASK.
+Monitor: Watch the Status Bar and Activity Log in real-time.
+Safe-Handling: If the app encounters a corrupted file on your drive, it will automatically skip it and log the error in orange, ensuring the rest of your task completes without crashing.
+5. Review & Finalize
+Summary: Once finished, a summary report will show exactly how many files were sorted and how many duplicates were found.
+Cleanup: If you moved files, any empty folders in your source directory will have been automatically deleted for you.
+Undo: Not happy with the result? Simply click the ↺ UNDO button to revert the entire session.
